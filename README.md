@@ -1,4 +1,4 @@
-# Go Learning Notes
+# GoLang Learning Notes
 ## Some cool and/or note-worthy things about Go
 - it has no 'while' loop, all loops in Go are 'for' loops. So something like a while-loop in Go looks like this:
 
